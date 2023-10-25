@@ -44,7 +44,14 @@ pip install -r requirements.txt
 ### Usage
 ```sh
 # Run the chatbot
-python chatbot.py
+open xampp
+start apache
+start mySQL
+open terminal
+python train.py
+python app.py
+Then click the link provided in terminal
+
 ```
   
   
